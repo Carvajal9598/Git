@@ -1,5 +1,52 @@
-body{
-    color: deeppink;
+.titulo-principal {
+    padding-left: 30px;
+ }
+ 
+ #banner {
+     width: 100%;
+     
+ }
+ 
+ .principal {
+     background-color: #cccccc;
+     padding: 20px;
+ }
+ 
+ .titulo-centralizado {
     text-align: center;
-    font-family: "Arial";
-}
+ }
+  
+ p{
+     text-align: center;
+  }
+ 
+  em strong {
+     color: red;
+  }
+ 
+  .diferenciales {
+     background: white;
+     padding: 30px;
+  }
+ 
+  .items {
+     font-style: italic;
+  }
+ 
+  ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+  }
+ 
+  h3 {
+    text-align: center;
+  }
+ 
+  .imagenDiferenciales {
+     width: 50%;
+  }
+ 
+  
+ 
