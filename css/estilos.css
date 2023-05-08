@@ -11,6 +11,14 @@
      background-color: #cccccc;
      padding: 20px;
  }
+
+ #cabecera{
+   text-align: center;
+   background: black;
+   color: #cccccc;
+   font-size: 30px;
+
+ }
  
  .titulo-centralizado {
     text-align: center;
